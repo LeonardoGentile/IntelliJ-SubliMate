@@ -16,7 +16,10 @@ A (sane) Sublime / TextMate inspired keymap for IntelliJ12
 
 ### Import
 
+Original project:
 File > Import Settings > [[Select SubliMate.jar](https://github.com/ProLoser/IntelliJ-Sublimate/raw/master/SublimMate.jar)]
+_-- or --_ my customized version:
+File > Import Settings > [[Select LeoMate.jar](https://github.com/LeonardoGentile/IntelliJ-SubliMate/raw/master/LeoMate.jar)]
 
 _-- or --_
 
@@ -24,16 +27,16 @@ Copy the `SubliMate.xml` files to their respective directories in `~/Library/Pre
 
 ### Enable
 
-Settings > Keymap > Keymaps: [Select SubliMate]
+Settings > Keymap > Keymaps: [Select LeoMate]
 
-Settings > Editor > Colors & Fonts > Scheme name: [Select SubliMate]
+Settings > Editor > Colors & Fonts > Scheme name: [Select LeoMate]  (Tweaked Twilight Dark)
 
 ## Shortcuts
 
 I've mixed together some Sublime and TextMate shortcuts, occasionally breaking IntelliJ shortcuts when necessry. Feel free to fork and help make a better overall collection of shortcuts!
 
-* Open File - ⌘T
-* Find Function - ⌘⇧T
+* Open File - ⌘P
+* Find Function - ⌘R or ⌘⇧O
 * Find - ⌘F
 * Find in Path - ⌘⇧F
 * Replace - ⌘R or ⌘⌥F
@@ -42,9 +45,9 @@ I've mixed together some Sublime and TextMate shortcuts, occasionally breaking I
 * Reopen Tab - ⌘⇧W
 * Close All Tabs - ⌘⌥W
 * Close All Other Tabs - ⌘⇧⌥W
-* Find Action (Quick Command Palette) - ⌘P or ^⌘T
+* Find Action (Quick Command Palette) - ⌘⇧P
 * Wrap (contents in...) - ⇧^W
-* Duplicate Lines (⌘D duplicates line OR selection) - ⌘⇧D
+* Duplicate Lines (⌘D removed) - ⌘⇧D
 * Delete Line - ⌘K
 * Go To Next Match Found (while searching) - ⌘G
 * Go To Previous Match Found (while searching) - ⌘⇧G
