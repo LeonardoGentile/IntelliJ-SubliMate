@@ -2,4 +2,11 @@ attrs
 axios
 unmount
 autorun
-Autorun
+antialiased
+subpixel
+dropdown
+zindex
+mixins
+mixin
+polyfill
+devtool
