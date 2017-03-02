@@ -10,3 +10,4 @@ mixins
 mixin
 polyfill
 devtool
+clearfix
